@@ -1,4 +1,4 @@
-ervices:
+Services:
   - type: web
     name: MammaMia  
     runtime: python  
@@ -13,5 +13,5 @@ ervices:
         value: 8080
       # Prompts for a value in the Render Dashboard on creation
       # (useful for secrets)
-      - key: TMDB_KEY
+      - key: eb7c2a4a743f63f33e82e518127c74c1
         sync: false
