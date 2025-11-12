@@ -1,17 +1,17 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://vixsrc.to",
-               "SC_ForwardProxy": "0",
+               "url":"https://vixsrc.to",
+               "SC_ForwardProxy":"0",
                "SC_PROXY": "0",
-               "VX_ForwardProxy": "0",
-               "VX_PROXY": "0",
+               "VX_ForwardProxy":"0",
+               "VX_PROXY":"0",
                "enabled": "1"
            },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
-              "SW_PROXY": "0",
-              "SW_ForwardProxy": "0",
+              "SW_PROXY":"0",
+              "SW_ForwardProxy":"0",
               "enabled":"1"
           },
           "CB01":{
@@ -35,22 +35,22 @@
               "GH_PROXY":"1"
           },
           "Eurostreaming":{
-            "url": "https://eurostreaming.wedding",
-            "enabled": "1",
-            "ES_ForwardProxy": "0",
-            "ES_PROXY": "1"
+            "url":"https://eurostreaming.wedding",
+            "enabled":"1",
+            "ES_ForwardProxy":"0",
+            "ES_PROXY":"1"
           },  
           "Guardaflix":{
-            "url": "https://guardaflix.monster",
-            "enabled": "1",
-            "GF_ForwardProxy": "0",
-            "GF_PROXY": "1"
+            "url":"https://guardaflix.monster",
+            "enabled":"1",
+            "GF_ForwardProxy":"0",
+            "GF_PROXY":"1"
           },
           "Guardoserie":{
-            "url": "https://guardoserie.monster",
-            "enabled": "1",
-            "GO_ForwardProxy": "0",
-            "GO_PROXY": "1"
+            "url":"https://guardoserie.monster",
+            "enabled":"1",
+            "GO_ForwardProxy":"0",
+            "GO_PROXY":"1"
           },
           "AnimeWorld":{
             "url":"https://www.animeworld.so",
@@ -66,6 +66,6 @@
        "Name": "MammaMia",
        "Icon": "🍕️",
        "level": "info",
-       "Global_Proxy": "0"
+       "Global_Proxy":"0"
        }
 }
